@@ -36,7 +36,7 @@ This project presents a comprehensive SQL-based analysis of a fictional pizza sa
 ---
 
 ### 🛠️ Technologies Used
-- **SQL (Oracle Syntax)**: For querying and data manipulation.
+- **SQL (Oracle DB)**: For querying and data manipulation.
 
 ---
 
