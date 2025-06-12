@@ -3,6 +3,8 @@
 ### 📌 Overview
 This project presents a comprehensive SQL-based analysis of a fictional pizza sales dataset. The goal is to extract actionable insights from raw transactional data using structured queries. The dataset includes four primary tables: `orders1`, `order_details`, `pizza1`, and `pizza_types`, each capturing different dimensions of the business — from order timestamps to pizza types, sizes, and pricing.
 
+![image](https://github.com/user-attachments/assets/a97a31dc-e5de-488c-9551-979c1f53063b)
+
 ---
 
 ### 📊 Key Business Insights
