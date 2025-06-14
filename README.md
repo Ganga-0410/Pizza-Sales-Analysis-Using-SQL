@@ -1,4 +1,4 @@
-## 🍕 Pizza Sales Data Analysis Using SQL
+## 🍕 Pizza Sales Data Analysis Using SQL, Excel, Power BI
 
 ### 📌 Overview
 This project presents a comprehensive SQL-based analysis of a fictional pizza sales dataset. The goal is to extract actionable insights from raw transactional data using structured queries. The dataset includes four primary tables: `orders1`, `order_details`, `pizza1`, and `pizza_types`, each capturing different dimensions of the business — from order timestamps to pizza types, sizes, and pricing.
